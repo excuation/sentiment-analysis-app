@@ -76,5 +76,6 @@ print("\nEvaluating the best model on the test set...")
 model.load_weights("models/best_sentiment_gru.h5")
 loss, accuracy = model.evaluate(x_test, y_test, verbose=0)
 print(f"✅ Test Accuracy: {accuracy:.4f}")
-print("✅ Model training complete and best model saved to 'models/best_sentiment_gru.h5'.")
+print("✅ Model training complete and best model saved to 'models/best_sentiment_gru.h5'.")git remote add origin https://github.com/excuation/sentiment-analysis-app.git
+
 

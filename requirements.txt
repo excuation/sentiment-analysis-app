@@ -1,7 +1,5 @@
-streamlit
-tensorflow-cpu==2.15.0
-keras
-scikit-learn
-nltk
+streamlit==1.35.0
+tensorflow==2.13.0
 numpy
 pandas
+scikit-learn
