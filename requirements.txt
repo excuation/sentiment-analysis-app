@@ -1,4 +1,6 @@
-
-pandas
+streamlit
+tensorflow
 numpy
+pandas
 scikit-learn
+joblib
