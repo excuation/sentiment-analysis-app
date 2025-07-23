@@ -1,6 +1,7 @@
-streamlit==1.35.0
-tensorflow==2.11.0
+streamlit
+tensorflow
+keras
 scikit-learn
+nltk
 numpy
 pandas
-joblib
